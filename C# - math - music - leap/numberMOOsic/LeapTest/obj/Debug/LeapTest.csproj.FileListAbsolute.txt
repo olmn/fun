@@ -1,0 +1,12 @@
+C:\dev\ChordTest2\LeapTest\obj\Debug\LeapTest.csprojResolveAssemblyReference.cache
+C:\dev\ChordTest2\LeapTest\bin\Debug\LeapTest.exe.config
+C:\dev\ChordTest2\LeapTest\bin\Debug\LeapTest.exe
+C:\dev\ChordTest2\LeapTest\bin\Debug\LeapTest.pdb
+C:\dev\ChordTest2\LeapTest\obj\Debug\LeapTest.exe
+C:\dev\ChordTest2\LeapTest\obj\Debug\LeapTest.pdb
+C:\dev\ChordTest2\LeapTest\bin\Debug\BeepUtil.dll
+C:\dev\ChordTest2\LeapTest\bin\Debug\BeepUtil.pdb
+C:\dev\ChordTest2\LeapTest\bin\Debug\BeepUtil.xml
+C:\dev\numberMOOsic\LeapTest\bin\Debug\LeapTest.exe.config
+C:\dev\numberMOOsic\LeapTest\obj\Debug\LeapTest.exe
+C:\dev\numberMOOsic\LeapTest\obj\Debug\LeapTest.pdb

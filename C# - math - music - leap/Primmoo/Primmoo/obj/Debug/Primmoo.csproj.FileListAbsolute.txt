@@ -1,0 +1,8 @@
+C:\dev\Primmoo\Primmoo\bin\Debug\Primmoo.exe
+C:\dev\Primmoo\Primmoo\bin\Debug\Primmoo.pdb
+C:\dev\Primmoo\Primmoo\obj\Debug\Primmoo.csprojResolveAssemblyReference.cache
+C:\dev\Primmoo\Primmoo\obj\Debug\Primmoo.Form1.resources
+C:\dev\Primmoo\Primmoo\obj\Debug\Primmoo.Properties.Resources.resources
+C:\dev\Primmoo\Primmoo\obj\Debug\Primmoo.csproj.GenerateResource.Cache
+C:\dev\Primmoo\Primmoo\obj\Debug\Primmoo.exe
+C:\dev\Primmoo\Primmoo\obj\Debug\Primmoo.pdb

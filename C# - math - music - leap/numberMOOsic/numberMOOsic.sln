@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChordTest2", "ChordTest2\ChordTest2.csproj", "{0B0D0BDA-D9E6-464A-96CD-9858B4DE74A1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BeepUtil", "BeepUtil\BeepUtil.vbproj", "{26633C43-5316-4BBA-8CE4-8427C93DE9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapTest", "LeapTest\LeapTest.csproj", "{5A37D974-E049-47F4-BB7B-A7769F336C5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B9A464A-0788-4EAF-B540-C4B241F50A5C}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0D0BDA-D9E6-464A-96CD-9858B4DE74A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0D0BDA-D9E6-464A-96CD-9858B4DE74A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0D0BDA-D9E6-464A-96CD-9858B4DE74A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0D0BDA-D9E6-464A-96CD-9858B4DE74A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26633C43-5316-4BBA-8CE4-8427C93DE9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26633C43-5316-4BBA-8CE4-8427C93DE9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26633C43-5316-4BBA-8CE4-8427C93DE9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26633C43-5316-4BBA-8CE4-8427C93DE9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A37D974-E049-47F4-BB7B-A7769F336C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A37D974-E049-47F4-BB7B-A7769F336C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A37D974-E049-47F4-BB7B-A7769F336C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A37D974-E049-47F4-BB7B-A7769F336C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

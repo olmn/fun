@@ -1,0 +1,8 @@
+C:\dev\ChordTest2\ChordTest2\obj\Debug\ChordTest2.csprojResolveAssemblyReference.cache
+C:\dev\ChordTest2\ChordTest2\bin\Debug\ChordTest2.exe
+C:\dev\ChordTest2\ChordTest2\bin\Debug\ChordTest2.pdb
+C:\dev\ChordTest2\ChordTest2\obj\Debug\ChordTest2.exe
+C:\dev\ChordTest2\ChordTest2\obj\Debug\ChordTest2.pdb
+C:\dev\ChordTest2\ChordTest2\bin\Debug\BeepUtil.dll
+C:\dev\ChordTest2\ChordTest2\bin\Debug\BeepUtil.pdb
+C:\dev\ChordTest2\ChordTest2\bin\Debug\BeepUtil.xml

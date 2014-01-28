@@ -1,0 +1,8 @@
+C:\dev\ChordTest2\BeepUtil\obj\Debug\BeepUtil.Resources.resources
+C:\dev\ChordTest2\BeepUtil\obj\Debug\BeepUtil.vbproj.GenerateResource.Cache
+C:\dev\ChordTest2\BeepUtil\bin\Debug\BeepUtil.dll
+C:\dev\ChordTest2\BeepUtil\bin\Debug\BeepUtil.pdb
+C:\dev\ChordTest2\BeepUtil\bin\Debug\BeepUtil.xml
+C:\dev\ChordTest2\BeepUtil\obj\Debug\BeepUtil.dll
+C:\dev\ChordTest2\BeepUtil\obj\Debug\BeepUtil.xml
+C:\dev\ChordTest2\BeepUtil\obj\Debug\BeepUtil.pdb

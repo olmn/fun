@@ -1,0 +1,15 @@
+@(f: lib.MyForm[Respondent])
+
+@main("Welcome") {
+
+    Welcome to the kindness study.
+        This is a quick survey with just 3 questions to answer.
+        All the fields below are optional.
+    @Html(f.form())
+<p>
+    To begin the quick survey, go ahead and press <b>Continue</b>.
+</p>
+<p>
+    @Html(f.submit("Continue"))
+</p>
+}

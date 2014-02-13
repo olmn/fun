@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\dev\kindness\kindnessStudy\conf\application.conf,C:\dev\kindness\kindnessStudy\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\dev\kindness\kindnessStudy\conf\dependencies.yml,C:\dev\kindness\kindnessStudy\target\scala-2.10\classes\dependencies.yml)[0m
+[0m[[0mdebug[0m] [0m	(C:\dev\kindness\kindnessStudy\conf\evolutions,C:\dev\kindness\kindnessStudy\target\scala-2.10\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(C:\dev\kindness\kindnessStudy\conf\routes,C:\dev\kindness\kindnessStudy\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\dev\kindness\kindnessStudy\conf\evolutions\default,C:\dev\kindness\kindnessStudy\target\scala-2.10\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(C:\dev\kindness\kindnessStudy\conf\evolutions\default\1.sql,C:\dev\kindness\kindnessStudy\target\scala-2.10\classes\evolutions\default\1.sql)[0m

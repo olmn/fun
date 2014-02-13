@@ -1,0 +1,22 @@
+.MyFormFieldRequired
+{
+    display:inline;
+    color:red;
+    padding-left:2px;
+
+}
+
+.MyFormField
+{
+    padding-bottom:10px;
+    padding-top:10px;
+
+}
+
+.responseTable
+{
+    border:2px solid #ddd;
+    padding:10px;
+    margin:10px;
+
+}

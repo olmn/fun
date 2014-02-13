@@ -1,0 +1,42 @@
+2013-12-10 19:46:39,120 - [INFO] - from play in pool-4-thread-1 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2013-12-10 19:47:08,121 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:mem:play
+
+2013-12-10 19:47:10,073 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2013-12-10 19:47:11,176 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+initializing inputType: text
+
+2013-12-10 19:47:11,177 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+rendering input firstName: type=text
+
+2013-12-10 19:47:11,178 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+initializing inputType: text
+
+2013-12-10 19:47:11,178 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+rendering input lastName: type=text
+
+2013-12-10 19:47:11,178 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+rendering input email: type=text
+
+2013-12-10 19:47:11,179 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+rendering input city: type=text
+
+2013-12-10 19:47:11,180 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+rendering input age: type=text
+
+2013-12-10 19:47:11,180 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+initializing inputType: select
+
+2013-12-10 19:47:11,181 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+rendering input gender: type=select
+
+2013-12-10 19:47:11,181 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+error getting value of property: Class lib.MyFormField can not access a member of class models.Respondent with modifiers "private static"
+
+2013-12-10 19:47:11,181 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+rendering input _EBEAN_MARKER: type=hidden
+

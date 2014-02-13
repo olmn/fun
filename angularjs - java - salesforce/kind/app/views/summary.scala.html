@@ -1,0 +1,19 @@
+@(r: Respondent, answers: List[Response])
+
+@main("Thank you") {
+        <p>
+        Thank you your help with the study, @r.firstName.
+            You will be notified
+            when the research is finally available to view.
+        Below is a summary of your answers.
+        </p>
+
+@for(q <- answers) {
+<div class='responseTable'>
+    <b>@q.question</b>
+    <br>
+    @q.response
+</div>
+}
+
+}

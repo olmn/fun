@@ -1,0 +1,3 @@
+require:
+    - play
+    - com.force.api -> force-wsc 23.0.0

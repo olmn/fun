@@ -1,0 +1,7 @@
+@(f: lib.MyForm[Response])
+@main("Question") {
+@f.get("question")
+@Html(f.input("response", new lib.MyFormField() {{ rows=10; cols=55; inputType = "textarea"; }}))
+@Html(f.submit("Continue"))
+@Html(f.hidden("id,respondentId,questionId,question"))
+}
